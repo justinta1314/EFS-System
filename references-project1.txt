@@ -1,0 +1,2 @@
+PBKDF2 : https://en.wikipedia.org/wiki/PBKDF2
+CTR : https://www.geeksforgeeks.org/ethical-hacking/block-cipher-modes-of-operation/
